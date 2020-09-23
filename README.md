@@ -1,6 +1,3 @@
-# NavMesh in Unity
-Project files for my tutorial on pathfinding using Unity's NavMesh Tools.
+# NavMesh Tutorial in Unity
 
-Check out my [YouTube Channel](http://youtube.com/brackeys) for more tutorials.
-
-Everything is free to use, also commercially (public domain).
+This repo contains the project files for Brackeys' tutorial on pathfinding using Unity's NavMesh Tools.
